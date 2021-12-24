@@ -3,9 +3,9 @@ This repository contains the definition of the GlycoCT carbohydrate sequence for
 [here](GlycoCT.pdf) and corresponds to version 4 (KIROI) developed by Stephan Herget and Rene Ranzinger in 2007.
 
 ## How to Cite
-Herget S, Ranzinger R, Maass K, Lieth CW. (2008). 
-GlycoCT-a unifying sequence format for carbohydrates.
-Carbohydr Research ;343(12):2162-71.
+Herget S, Ranzinger R, Maass K, Lieth CW. (2008).  
+GlycoCT-a unifying sequence format for carbohydrates.  
+Carbohydr Research ;343(12):2162-71.  
 [PMID:18436199](https://pubmed.ncbi.nlm.nih.gov/18436199/)
 
 ## License
